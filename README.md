@@ -18,13 +18,13 @@ As in the original, all of the following applies:
      
    P.P.S. [Contributions](CONTRIBUTING.md) are welcome!*
 
-:scroll: - paper
-:book: - book
-:page_facing_up: - blog
-:white_check_mark: - checklist
-:open_file_folder: - github/lab repo
-:link: - website (other)
-:movie_camera: - video
+:scroll: - paper  
+:book: - book  
+:page_facing_up: - blog  
+:white_check_mark: - checklist  
+:open_file_folder: - github/lab repo  
+:link: - website (other)  
+:movie_camera: - video  
 
 ### Introduction
 
