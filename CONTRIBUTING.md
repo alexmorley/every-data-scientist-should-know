@@ -7,6 +7,7 @@ Our goal is to have a **comprehensible** list of most valuable things any progra
 Your contributions to this repo are always welcome!
 Bear in mind, that this repo is *highly opinionated* and *curated*.
 Your opinion on value of any resource may not match the opinion of curator.
+Please always respect the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 **No PR will be discarded without explanations!**
 
