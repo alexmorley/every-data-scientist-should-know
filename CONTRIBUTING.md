@@ -5,11 +5,11 @@ Our goal is to have a **comprehensible** list of most valuable things any progra
 ## Contributing
 
 Your contributions to this repo are always welcome!
-Bear in mind, that this repo is *highly opinionated* and *curated*.
+Bear in mind, that the main README is *highly opinionated* and *curated*.
 Your opinion on value of any resource may not match the opinion of curator.
 Please always respect the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-**No PR will be discarded without explanations!**
+**No PR will be discarded without explanations! - All relevant (non-spam) links that are even a tiny bit useful will be added to the [EVERYTHING-a-data-scientist-could-want-to-know](./EVERYTHING.md) list**
 
 
 ## Core Values
