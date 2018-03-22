@@ -58,7 +58,7 @@ As in the original, all of the following applies:
 
 
 ### "Data Constructs" - Data Structures & Relational Databases
-
+- :movie_camera: UC Berkeley, Data Structures Course
 
 
 ### "Big Data" Processing/Managment Technologies & Operalization
