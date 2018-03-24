@@ -72,8 +72,8 @@ As in the original, all of the following applies:
 ### Career
 
 
-### Where To Look For Further Info
-
+### Meta-Lists
+- [Trello Data Science](https://trello.com/b/rbpEfMld/data-science)
 
 ### Blogs/Tweeps you should follow
 - [the morning paper](https://blog.acolyer.org/) / [@adriancolyer](https://twitter.com/adriancolyer)
