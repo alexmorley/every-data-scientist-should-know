@@ -46,6 +46,7 @@ As in the original, all of the following applies:
 ### Machine Learning
 - :card_index:[Machine Learning Flashcards](https://machinelearningflashcards.com/)
 - :book:[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
+- :link:[10 Machine Learning Algorithms You Should Know to Become a Data Scientist](https://dzone.com/articles/ten-machine-learning-algorithms-you-should-know-to)
 
 
 ### Artificial Intelligence / Neural Networks
