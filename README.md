@@ -55,7 +55,7 @@ As in the original, all of the following applies:
 ### Visualisation
 - :open_file_folder: [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 - :link: [Color Brewer 2](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-
+- :link: [Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 
 ### "Data Constructs" - Data Structures & Relational Databases
 
