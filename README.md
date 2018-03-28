@@ -58,7 +58,7 @@ As in the original, all of the following applies:
 - :link: [Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 
 ### "Data Constructs" - Data Structures & Relational Databases
-
+- :movie_camera: UC Berkeley, Data Structures Course
 
 
 ### "Big Data" Processing/Managment Technologies & Operalization
