@@ -48,8 +48,9 @@ As in the original, all of the following applies:
 - :book:[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
 
 
-### Artificial Intelligence / Neural Networks
+### Artificial Intelligence / Neural Networks / Deep Learning
 - :movie_camera:[But what *is* a Neural Network? | Chapter 1, deep learning](https://www.youtube.com/watch?v=aircAruvnKk&feature=youtu.be)
+- :link:[Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow/blob/master/README.md)
 
 
 ### Visualisation
