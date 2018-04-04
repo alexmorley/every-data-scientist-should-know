@@ -26,14 +26,6 @@ As in the original, all of the following applies:
 :link: - website (other)  
 :movie_camera: - video  
 
-### Introduction
-
-
-### Falsehoods
-
-
-### Open Source
-
 
 ### Ethics
 - :scroll::scroll:[Theme issue ‘The ethical impact of data science’ Phil. Trans. R. Soc.](http://rsta.royalsocietypublishing.org/content/374/2083)
@@ -41,7 +33,7 @@ As in the original, all of the following applies:
 
 ### Statistics 
 - :book:[Basic Econometrics](https://www.goodreads.com/book/show/308227.Basic_Econometrics_4th_Economy_Edition)
-
+- :school:[Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
 
 ### Machine Learning
 - :card_index:[Machine Learning Flashcards](https://machinelearningflashcards.com/)
