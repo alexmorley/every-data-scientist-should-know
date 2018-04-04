@@ -1,16 +1,21 @@
 # every-data-scientist-should-know :thinking: 
 A collection of (mostly) technical things every data scientist should know :chart_with_upwards_trend: :chart_with_downwards_trend: 
 
-:point_up: These are resources I can recommend to every programmer regardless of their skill level or tech stack
+:point_up: These are resources I can recommend to every data scientist regardless of their skill level or tech stack
 
 This is a `s/programmer/data-scientist/g` of [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) by [@mtdvio](https://github.com/mtdvio). That meas two things: 1. I take no credit for the idea of creating this page, I just wanted one for data-science and 2. things that are *purely* related to software development will not be the focus of this page, though there may be limited duplication.
+
+# What do *YOU* think every data scientist should know
+![What do YOU think every data scientist should know](http://i0.kym-cdn.com/photos/images/original/000/806/927/d30.jpg)
+## This list is far from complete/correct. Add/remove as you wish...
+### (see [Contributions](CONTRIBUTING.md))
 
 As in the original, all of the following applies:
 
    Highly opinionated :bomb:. Not backed by science.  
    Comes in no particular order :recycle:
 
-   U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
+   U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly data scientis!
    U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
 
    *P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a data scientist.  
