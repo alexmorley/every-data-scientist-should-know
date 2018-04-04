@@ -74,6 +74,7 @@ As in the original, all of the following applies:
 
 ### Meta-Lists
 - [Trello Data Science](https://trello.com/b/rbpEfMld/data-science)
+- [Hadley Wickhams - Stats 337: Readings in Applied Data Science](https://github.com/hadley/stats337)
 
 ### Blogs/Tweeps you should follow
 - [the morning paper](https://blog.acolyer.org/) / [@adriancolyer](https://twitter.com/adriancolyer)
