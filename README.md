@@ -35,15 +35,17 @@ As in the original, all of the following applies:
 - :book:[Basic Econometrics](https://www.goodreads.com/book/show/308227.Basic_Econometrics_4th_Economy_Edition)
 - :school:[Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
 
+### Open Source / Open Data
+- :link:[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 ### Machine Learning
 - :card_index:[Machine Learning Flashcards](https://machinelearningflashcards.com/)
 - :book:[Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/)
 
-
 ### Artificial Intelligence / Neural Networks / Deep Learning
 - :movie_camera:[But what *is* a Neural Network? | Chapter 1, deep learning](https://www.youtube.com/watch?v=aircAruvnKk&feature=youtu.be)
 - :link:[Awesome Tensorflow](https://github.com/jtoy/awesome-tensorflow/blob/master/README.md)
-
+- :school:[Stanford Course on Deep Learning for NLP](http://cs224d.stanford.edu/)
 
 ### Visualisation
 - :open_file_folder: [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
@@ -51,8 +53,7 @@ As in the original, all of the following applies:
 - :link: [Color on the Web](https://css-tricks.com/nerds-guide-color-web/)
 
 ### "Data Constructs" - Data Structures & Relational Databases
-- :movie_camera: UC Berkeley, Data Structures Course
-
+- :school: + :movie_camera: [UC Berkeley, Data Structures Course](https://people.eecs.berkeley.edu/~jrs/61b/) + [lectures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 
 ### "Big Data" Processing/Managment Technologies & Operalization
 - :scroll: [Machine Learning: The High Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
@@ -64,11 +65,13 @@ As in the original, all of the following applies:
 - :link:[Hyperpolyglot - Programming Languages - commonly used features in a side-by-side format](http://hyperpolyglot.org/)
 
 ### Career
-
+- :link:[66++ Data Job Interview Questions for Data Scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
+- :book:[Data Analytics Handbook](https://www.teamleada.com/handbook)
 
 ### Meta-Lists
 - [Trello Data Science](https://trello.com/b/rbpEfMld/data-science)
 - [Hadley Wickhams - Stats 337: Readings in Applied Data Science](https://github.com/hadley/stats337)
+- [Open Source Data Science Masters](http://datasciencemasters.org/)
 
 ### Blogs/Tweeps you should follow
 - [the morning paper](https://blog.acolyer.org/) / [@adriancolyer](https://twitter.com/adriancolyer)
