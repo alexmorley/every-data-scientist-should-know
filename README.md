@@ -63,6 +63,7 @@ As in the original, all of the following applies:
 
 ### "Big Data" Processing/Managment Technologies & Operalization
 - :scroll: [Machine Learning: The High Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
+- :link:[Hadoop HDFS Architecture Explained](https://data-flair.training/blogs/hadoop-hdfs-architecture/)
 
 
 ### Programming Languages/Software Developement
