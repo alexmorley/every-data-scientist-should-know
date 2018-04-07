@@ -5,7 +5,7 @@ A collection of (mostly) technical things every data scientist should know :char
 
 This is a `s/programmer/data-scientist/g` of [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) by [@mtdvio](https://github.com/mtdvio). That meas two things: 1. I take no credit for the idea of creating this page, I just wanted one for data-science and 2. things that are *purely* related to software development will not be the focus of this page, though there may be limited duplication.
 
-# What do *YOU* think every data scientist should know
+# What do *YOU* think every data scientist should know?
 ![What do YOU think every data scientist should know](http://i0.kym-cdn.com/photos/images/original/000/806/927/d30.jpg)
 ## This list is far from complete/correct. Add/remove as you wish...
 ### (see [Contributions](CONTRIBUTING.md))
