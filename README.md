@@ -36,6 +36,10 @@ As in the original, all of the following applies:
 - :scroll::scroll:[Theme issue ‘The ethical impact of data science’ Phil. Trans. R. Soc.](http://rsta.royalsocietypublishing.org/content/374/2083)
 - :book:[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction)
 
+### Base Math for Data Science
+- :video:[Professor Gilbert Strang's Linear Algebra at MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/)
+- :open_file_folder:[fastai/numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
+
 ### Statistics 
 - :book:[Basic Econometrics](https://www.goodreads.com/book/show/308227.Basic_Econometrics_4th_Economy_Edition)
 - :school:[Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
