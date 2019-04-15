@@ -71,9 +71,11 @@ As in the original, all of the following applies:
 - :link:[Hadoop HDFS Architecture Explained](https://data-flair.training/blogs/hadoop-hdfs-architecture/)
 - :link:[Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
 
-### Programming Languages/Software Developement
-- :book:[You Don't Know JS](https://www.goodreads.com/series/139311-you-don-t-know-js)
-- :link:[Hyperpolyglot - Programming Languages - commonly used features in a side-by-side format](http://hyperpolyglot.org/)
+### Specific Programming Languages for Data Science
+- :book:[R for Data Science](https://r4ds.had.co.nz/)
+- :book:[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- :book:[You Don't Know JS](https://www.goodreads.com/series/139311-you-don-t-know-js) (Not Data Science Specific)
+- :link:[Hyperpolyglot - Programming Languages - commonly used features in a side-by-side format](http://hyperpolyglot.org/) (Not Data Science Specific)
 
 ### Career
 - :link:[66++ Data Job Interview Questions for Data Scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
